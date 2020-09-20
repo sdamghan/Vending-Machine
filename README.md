@@ -1,5 +1,10 @@
-![alt text](https://github.com/sdamghan/Vending-Machine/imgs/readme/diagram1?raw=true)
-Figure 1- Block diagram of the module
+<p align="center">
+  <img width="460" height="300" src="https://github.com/sdamghan/Vending-Machine/blob/readme/imgs/diagram1">
+</p>
+
+<p align="center">
+  Figure 1- Block diagram of the module
+</p>
 
 ## 1. General View
 
@@ -35,19 +40,28 @@ In order to successfully get the commands from the administrator, we have to def
 Whenever the “Start” signal goes high, at the following clock cycle, the commands are begin to send serially in an eight-bit package, with LSB sent at first. When the “Start” signal is asserted, it will be kept high for just one clock cycle. The data frame of the protocol is shown in Figure 2.
 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/sdamghan/Vending-Machine/blob/readme/imgs/diagram2.png">
+</p>
 
-
-
+<p align="center">
 Figure 2- Data frame of the protocol
+</p>
+
+
 
 
 ### 2.2 Main Part
 
 The main part is responsible for processing commands from the administrator, processing the customer requests, and generating the appropriate output signals. At first, it waits for the administrator for information (on initial product count). Thus, the information will retrieve via the communication controller before starting to service users. It means that the main part first receives an eight-bit data from the communication controller which contains the command.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/sdamghan/Vending-Machine/blob/readme/imgs/diagram3.png">
+</p>
 
-
+<p align="center">
 Figure 3- Format of the input data
+</p>
 
 The “Type” section specifies the product and the “Num” section determines how many products of “Type” are available in the machine.
 
