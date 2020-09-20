@@ -1,5 +1,7 @@
-![alt text](https://github.com/sdamghan/Vending-Machine/imgs/readme/diagram1?raw=true)
+![Figure 1- Block diagram of the module](https://github.com/sdamghan/Vending-Machine/blob/readme/imgs/diagram1?raw=true)
+
 Figure 1- Block diagram of the module
+
 
 ## 1. General View
 
