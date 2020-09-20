@@ -1,4 +1,6 @@
-![Figure 1- Block diagram of the module](https://github.com/sdamghan/Vending-Machine/blob/readme/imgs/diagram1?raw=true)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/sdamghan/Vending-Machine/blob/readme/imgs/diagram1">
+</p>
 
 Figure 1- Block diagram of the module
 
