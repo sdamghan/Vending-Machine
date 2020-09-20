@@ -1,0 +1,5 @@
+EN communicationprotocol NULL I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/CommunicationProtocol.vhd sub00/vhpl00 1448813457
+EN vmtb NULL I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VMTB.vhd sub00/vhpl04 1448812888
+AR vm behavioral I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.vhd sub00/vhpl03 1448813460
+EN vm NULL I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.vhd sub00/vhpl02 1448813459
+AR communicationprotocol behavioral I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/CommunicationProtocol.vhd sub00/vhpl01 1448813458

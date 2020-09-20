@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.xst" -ofn "I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.syr" 
+xst -intstyle ise -ifn "I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.xst" -ofn "I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.syr" 
+xst -intstyle ise -ifn "I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.xst" -ofn "I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.syr" 
+xst -intstyle ise -ifn "I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.xst" -ofn "I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.syr" 

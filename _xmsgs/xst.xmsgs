@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Xst" num="1739" delta="old" >HDL ADVISOR - &quot;<arg fmt="%s" index="1">I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.vhd</arg>&quot; line <arg fmt="%d" index="2">35</arg>: declaration of a buffer port will make it difficult for you to validate this design by simulation. It is preferable to declare it as output.
+</msg>
+
+<msg type="info" file="Xst" num="1739" delta="old" >HDL ADVISOR - &quot;<arg fmt="%s" index="1">I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.vhd</arg>&quot; line <arg fmt="%d" index="2">35</arg>: declaration of a buffer port will make it difficult for you to validate this design by simulation. It is preferable to declare it as output.
+</msg>
+
+<msg type="info" file="Xst" num="1739" delta="old" >HDL ADVISOR - &quot;<arg fmt="%s" index="1">I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.vhd</arg>&quot; line <arg fmt="%d" index="2">35</arg>: declaration of a buffer port will make it difficult for you to validate this design by simulation. It is preferable to declare it as output.
+</msg>
+
+<msg type="info" file="Xst" num="1739" delta="old" >HDL ADVISOR - &quot;<arg fmt="%s" index="1">I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.vhd</arg>&quot; line <arg fmt="%d" index="2">35</arg>: declaration of a buffer port will make it difficult for you to validate this design by simulation. It is preferable to declare it as output.
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="old" >&quot;<arg fmt="%s" index="1">I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.vhd</arg>&quot; line <arg fmt="%d" index="2">80</arg>: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+<arg fmt="%s" index="3">&lt;Flag&gt;, &lt;t1&gt;</arg>
+</msg>
+
+<msg type="error" file="Xst" num="841" delta="old" >&quot;<arg fmt="%s" index="1">I:/Xilinx_Projects/CAD/CA3/test1/VendingMachine/VM.vhd</arg>&quot; line <arg fmt="%d" index="2">88</arg>: Bad condition in wait statement, or only one clock per process.
+</msg>
+
+</messages>
+

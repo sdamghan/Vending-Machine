@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Mehrshad/Desktop/CAD-CA3/CAD-CA3-91337/VendingMachine/x_isim_beh.exe -prj C:/Users/Mehrshad/Desktop/CAD-CA3/CAD-CA3-91337/VendingMachine/x_beh.prj work.x 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Mehrshad/Desktop/CAD-CA3/CAD-CA3-91337/VendingMachine/CommunicationProtocol.vhd" into library work
+Parsing VHDL file "C:/Users/Mehrshad/Desktop/CAD-CA3/CAD-CA3-91337/VendingMachine/VM.vhd" into library work
+Parsing VHDL file "C:/Users/Mehrshad/Desktop/CAD-CA3/CAD-CA3-91337/VendingMachine/x.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity CommunicationProtocol [communicationprotocol_default]
+Compiling architecture behavioral of entity VM [vm_default]
+Compiling architecture behavior of entity x
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 8 VHDL Units
+Built simulation executable C:/Users/Mehrshad/Desktop/CAD-CA3/CAD-CA3-91337/VendingMachine/x_isim_beh.exe
+Fuse Memory Usage: 34264 KB
+Fuse CPU Usage: 515 ms
