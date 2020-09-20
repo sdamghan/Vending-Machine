@@ -2,9 +2,14 @@
   <img width="460" height="300" src="https://github.com/sdamghan/Vending-Machine/blob/readme/imgs/diagram1">
 </p>
 
+<<<<<<< HEAD
 <p align="center">
   Figure 1- Block diagram of the module
 </p>
+=======
+Figure 1- Block diagram of the module
+>>>>>>> 18651775f3ee79f69e514a31076f06d0b81fe7d9
+
 
 ## 1. General View
 
